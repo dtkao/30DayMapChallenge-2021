@@ -21,7 +21,9 @@
 #### https://tabsoft.co/3mQPTz9
 ![Dashboard 1-4](https://user-images.githubusercontent.com/83227252/144732916-9da87820-7e6f-4a35-854b-b061d0f1daa2.png)
 
-## Day 7 - Green | Day 8 - Blue | Day 9 - Monochrome
+## Day 7 - Green
+## Day 8 - Blue
+## Day 9 - Monochrome
 <img width="3023" alt="Day 6-9" src="https://user-images.githubusercontent.com/83227252/144732958-a7f35eae-f933-4d50-b1cc-d0d2b9355554.png">
 
 ## Day 10 - Raster (See Day 19 - Islands)
@@ -33,7 +35,7 @@
 ## Day 13 - Natural Earth
 ![Natural earth final map](https://user-images.githubusercontent.com/83227252/144733029-7477fedd-3a9e-4a2b-8526-1dd6dc4d669c.png)
 
-## Day 14 - Map with a New Tool (+ Day 11 - 3D | Day 12 - Population)
+## Day 14 - Map with a New Tool (+ Day 11 - 3D & Day 12 - Population)
 ![Final Map](https://user-images.githubusercontent.com/83227252/144733016-713d4513-e349-4d1c-b2f8-5a1761d15277.png)
 
 ## Day 15 - Map Made Without Using a Computer
@@ -49,7 +51,7 @@
 ## Day 18 - Water
 ![Day 18 - Water](https://user-images.githubusercontent.com/83227252/144733253-ec986f6f-0993-4386-a1aa-0d7d538acd6e.png)
 
-## Day 19 - Island (Day 5 - Hexagon | Day 10 - Raster)
+## Day 19 - Island (Day 5 - Hexagon & Day 10 - Raster)
 #### https://tabsoft.co/3qTP4bf
 ![Dashboard 1-5](https://user-images.githubusercontent.com/83227252/144733399-a2867609-484a-43db-8c84-2936068613cc.png)
 
