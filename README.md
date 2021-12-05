@@ -1,10 +1,10 @@
 # 30DayMapChallenge 2021
 ## Maps Designed by: Dennis Kao, @professorkao
 
-## Day 1 - Points [Tableau Public Link](https://public.tableau.com/app/profile/dennis.kao/viz/CityLights-Ottawa/Dashboard1) 
+## [Day 1 - Points](https://public.tableau.com/app/profile/dennis.kao/viz/CityLights-Ottawa/Dashboard1) 
 ![Final Image](https://user-images.githubusercontent.com/83227252/144732804-55b8ff43-68ad-476d-a22d-fa2265e5fdf6.png)
 
-## Day 2 - Lines [Tableau Public Link](https://tabsoft.co/3bxjNCj)
+## [Day 2 - Lines](https://tabsoft.co/3bxjNCj)
 <img width="587" alt="Final Image" src="https://user-images.githubusercontent.com/83227252/144732812-40d65e06-8b12-438a-a5cb-d37213653807.png">
 
 ## Day 3 - Polygons
@@ -15,7 +15,7 @@
 ## Day 5 - OSM 
 ![Day 5 - OSM](https://user-images.githubusercontent.com/83227252/144732868-164484ee-4b84-4829-bec4-098ff9d90a06.png)
 
-## Day 6 - Red [Tableau Public Link](https://tabsoft.co/3mQPTz9)
+## [Day 6 - Red](https://tabsoft.co/3mQPTz9)
 ![Dashboard 1-4](https://user-images.githubusercontent.com/83227252/144732916-9da87820-7e6f-4a35-854b-b061d0f1daa2.png)
 
 ## Day 7 - Green
@@ -38,8 +38,7 @@
 ## Day 15 - Map Made Without Using a Computer
 ![IMG_3914 1](https://user-images.githubusercontent.com/83227252/144733102-73302af7-044d-4259-ad58-9d91fb65978e.png)
 
-## Day 16 - Urban/Rural
-#### https://public.tableau.com/app/profile/dennis.kao/viz/UrbanRuralOttawa30DayMapChallengeDay16/Dashboard1
+## [Day 16 - Urban/Rural](https://public.tableau.com/app/profile/dennis.kao/viz/UrbanRuralOttawa30DayMapChallengeDay16/Dashboard1)
 ![Dashboard 1-3](https://user-images.githubusercontent.com/83227252/144733125-d5f82c16-ae01-4403-aa44-27219bcb4cef.png)
 
 ## Day 17 - Land
@@ -48,12 +47,10 @@
 ## Day 18 - Water
 ![Day 18 - Water](https://user-images.githubusercontent.com/83227252/144733253-ec986f6f-0993-4386-a1aa-0d7d538acd6e.png)
 
-## Day 19 - Island (Day 5 - Hexagon & Day 10 - Raster)
-#### https://tabsoft.co/3qTP4bf
+## [Day 19 - Island](https://tabsoft.co/3qTP4bf) (Day 5 - Hexagon & Day 10 - Raster) 
 ![Dashboard 1-5](https://user-images.githubusercontent.com/83227252/144733399-a2867609-484a-43db-8c84-2936068613cc.png)
 
-## Day 20 - Movement
-#### https://public.tableau.com/app/profile/dennis.kao/viz/2020ChampionsLeagueFinal30DayMapChallengeDay20Movement/Dashboard1
+## [Day 20 - Movement](https://public.tableau.com/app/profile/dennis.kao/viz/2020ChampionsLeagueFinal30DayMapChallengeDay20Movement/Dashboard1)
 ![Dashboard 1-4](https://user-images.githubusercontent.com/83227252/144733262-19b09a42-4719-42d4-a884-6e864247e63a.png)
 
 ## Day 21 - Elevation
@@ -68,19 +65,16 @@
 ## Day 24 - Historical Map
 <img width="8587" alt="Day 24 - Historical" src="https://user-images.githubusercontent.com/83227252/144733323-4bdba150-8c01-4155-99c0-902d3281fdfa.png">
 
-## Day 25 - Interactive Map 
-#### https://tabsoft.co/3ldImsZ
+## [Day 25 - Interactive Map](https://tabsoft.co/3ldImsZ)
 ![Maps](https://user-images.githubusercontent.com/83227252/144733368-5d062625-5112-408f-865d-0a18e3dfb392.png)
 
-## Day 26 - Choropleth Map
-#### https://public.tableau.com/app/profile/dennis.kao/viz/OttawaDemographicsbyWard-30DayMapChallengeDay26Choropleth/Dashboard1
+## [Day 26 - Choropleth Map](https://public.tableau.com/app/profile/dennis.kao/viz/OttawaDemographicsbyWard-30DayMapChallengeDay26Choropleth/Dashboard1)
 ![Dashboard 1](https://user-images.githubusercontent.com/83227252/144733417-1ea89ca9-2283-479d-8f9d-46c5b8d8dbf7.png)
 
 ## Day 27 - Heatmap
 <img width="4096" alt="Day 27 - Heatmap" src="https://user-images.githubusercontent.com/83227252/144733448-ded111be-c2c5-4f7f-a620-db32f2b50f93.png">
 
-## Day 28 - The Earth is Not Flat
-#### https://public.tableau.com/app/profile/dennis.kao/viz/FlatEarthTheory-30DayMapChallenge2021Day28/Dashboard1
+## [Day 28 - The Earth is Not Flat](https://public.tableau.com/app/profile/dennis.kao/viz/FlatEarthTheory-30DayMapChallenge2021Day28/Dashboard1)
 ![Dashboard 1-6](https://user-images.githubusercontent.com/83227252/144733473-21642b65-427e-4be3-8d2b-095fabd81c4e.png)
 
 ## Day 29 - NULL
