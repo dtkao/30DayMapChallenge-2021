@@ -1,12 +1,10 @@
 # 30DayMapChallenge 2021
 ## Maps Designed by: Dennis Kao, @professorkao
 
-## Day 1 - Points 
-[Link](https://public.tableau.com/app/profile/dennis.kao/viz/CityLights-Ottawa/Dashboard1)
+## Day 1 - Points [Tableau Public Link](https://public.tableau.com/app/profile/dennis.kao/viz/CityLights-Ottawa/Dashboard1) 
 ![Final Image](https://user-images.githubusercontent.com/83227252/144732804-55b8ff43-68ad-476d-a22d-fa2265e5fdf6.png)
 
-## Day 2 - Lines
-#### https://tabsoft.co/3bxjNCj
+## Day 2 - Lines [Tableau Public Link](https://tabsoft.co/3bxjNCj)
 <img width="587" alt="Final Image" src="https://user-images.githubusercontent.com/83227252/144732812-40d65e06-8b12-438a-a5cb-d37213653807.png">
 
 ## Day 3 - Polygons
@@ -17,8 +15,7 @@
 ## Day 5 - OSM 
 ![Day 5 - OSM](https://user-images.githubusercontent.com/83227252/144732868-164484ee-4b84-4829-bec4-098ff9d90a06.png)
 
-## Day 6 - Red 
-#### https://tabsoft.co/3mQPTz9
+## Day 6 - Red [Tableau Public Link](https://tabsoft.co/3mQPTz9)
 ![Dashboard 1-4](https://user-images.githubusercontent.com/83227252/144732916-9da87820-7e6f-4a35-854b-b061d0f1daa2.png)
 
 ## Day 7 - Green
