@@ -16,3 +16,6 @@
 
 ## Day 6 - Red
 ![Dashboard 1-4](https://user-images.githubusercontent.com/83227252/144732916-9da87820-7e6f-4a35-854b-b061d0f1daa2.png)
+
+## Day 7 - 
+<img width="3023" alt="Day 6-9" src="https://user-images.githubusercontent.com/83227252/144732958-a7f35eae-f933-4d50-b1cc-d0d2b9355554.png">
