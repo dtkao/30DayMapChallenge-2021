@@ -1,7 +1,8 @@
 # 30DayMapChallenge 2021
 ## Maps Designed by: Dennis Kao, @professorkao
 
-## Day 1 - Points
+## Day 1 - Points 
+### https://tabsoft.co/3bxjNCj
 ![Final Image](https://user-images.githubusercontent.com/83227252/144732804-55b8ff43-68ad-476d-a22d-fa2265e5fdf6.png)
 
 ## Day 2 - Lines
@@ -15,7 +16,8 @@
 ## Day 5 - OSM 
 ![Day 5 - OSM](https://user-images.githubusercontent.com/83227252/144732868-164484ee-4b84-4829-bec4-098ff9d90a06.png)
 
-## Day 6 - Red
+## Day 6 - Red 
+#### https://tabsoft.co/3mQPTz9
 ![Dashboard 1-4](https://user-images.githubusercontent.com/83227252/144732916-9da87820-7e6f-4a35-854b-b061d0f1daa2.png)
 
 ## Day 7 - Green | Day 8 - Blue | Day 9 - Monochrome
@@ -46,6 +48,7 @@
 ![Day 18 - Water](https://user-images.githubusercontent.com/83227252/144733253-ec986f6f-0993-4386-a1aa-0d7d538acd6e.png)
 
 ## Day 19 - Island (Day 5 - Hexagon | Day 10 - Raster)
+#### https://tabsoft.co/3qTP4bf
 ![Dashboard 1-5](https://user-images.githubusercontent.com/83227252/144733399-a2867609-484a-43db-8c84-2936068613cc.png)
 
 ## Day 20 - Movement
@@ -63,7 +66,7 @@
 ## Day 24 - Historical Map
 <img width="8587" alt="Day 24 - Historical" src="https://user-images.githubusercontent.com/83227252/144733323-4bdba150-8c01-4155-99c0-902d3281fdfa.png">
 
-## Day 25 - Interactive Map (https://tabsoft.co/3ldImsZ)
+## Day 25 - Interactive Map https://tabsoft.co/3ldImsZ
 ![Maps](https://user-images.githubusercontent.com/83227252/144733368-5d062625-5112-408f-865d-0a18e3dfb392.png)
 
 ## Day 26 - Choropleth Map
