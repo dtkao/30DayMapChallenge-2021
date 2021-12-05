@@ -1,7 +1,6 @@
 # #30DayMapChallenge 2021
 
-### Maps Designed by: 
-### Dennis Kao | [@professorkao](https://twitter.com/professorkao)
+### Maps Designed by: Dennis Kao | [@professorkao](https://twitter.com/professorkao)
 
 ## [Day 1 - Points](https://public.tableau.com/app/profile/dennis.kao/viz/CityLights-Ottawa/Dashboard1) | [Twitter](https://twitter.com/professorkao/status/1455106256373485569?s=20)
 ![Final Image](https://user-images.githubusercontent.com/83227252/144732804-55b8ff43-68ad-476d-a22d-fa2265e5fdf6.png)
