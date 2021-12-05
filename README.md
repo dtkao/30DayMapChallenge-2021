@@ -45,6 +45,7 @@
 ![Day 18 - Water](https://user-images.githubusercontent.com/83227252/144733253-ec986f6f-0993-4386-a1aa-0d7d538acd6e.png)
 
 ## Day 19 - Island (Day 5 - Hexagon | Day 10 - Raster)
+![Dashboard 1-5](https://user-images.githubusercontent.com/83227252/144733399-a2867609-484a-43db-8c84-2936068613cc.png)
 
 ## Day 20 - Movement
 ![Dashboard 1-4](https://user-images.githubusercontent.com/83227252/144733262-19b09a42-4719-42d4-a884-6e864247e63a.png)
@@ -65,11 +66,15 @@
 ![Maps](https://user-images.githubusercontent.com/83227252/144733368-5d062625-5112-408f-865d-0a18e3dfb392.png)
 
 ## Day 26 - Choropleth Map
+![Dashboard 1](https://user-images.githubusercontent.com/83227252/144733417-1ea89ca9-2283-479d-8f9d-46c5b8d8dbf7.png)
 
 ## Day 27 - Heatmap
+<img width="4096" alt="Day 27 - Heatmap" src="https://user-images.githubusercontent.com/83227252/144733448-ded111be-c2c5-4f7f-a620-db32f2b50f93.png">
 
 ## Day 28 - The Earth is Not Flat
+![Dashboard 1-6](https://user-images.githubusercontent.com/83227252/144733473-21642b65-427e-4be3-8d2b-095fabd81c4e.png)
 
 ## Day 29 - NULL
+<img width="4096" alt="Day 29 - Null" src="https://user-images.githubusercontent.com/83227252/144733482-b1d413dc-9bc8-4a8e-87a8-2dfc36217716.png">
 
 ## Day 30 - Metampping Day 
