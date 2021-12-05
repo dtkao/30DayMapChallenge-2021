@@ -1,4 +1,5 @@
-# 30DayMapChallenge 2021 - By Dennis Kao, @professorkao
+# 30DayMapChallenge 2021
+## Maps Designed by: Dennis Kao, @professorkao
 
 ## Day 1 - Points
 ![Final Image](https://user-images.githubusercontent.com/83227252/144732804-55b8ff43-68ad-476d-a22d-fa2265e5fdf6.png)
@@ -62,7 +63,7 @@
 ## Day 24 - Historical Map
 <img width="8587" alt="Day 24 - Historical" src="https://user-images.githubusercontent.com/83227252/144733323-4bdba150-8c01-4155-99c0-902d3281fdfa.png">
 
-## Day 25 - Interactive Map
+## Day 25 - Interactive Map (https://tabsoft.co/3ldImsZ)
 ![Maps](https://user-images.githubusercontent.com/83227252/144733368-5d062625-5112-408f-865d-0a18e3dfb392.png)
 
 ## Day 26 - Choropleth Map
@@ -77,4 +78,4 @@
 ## Day 29 - NULL
 <img width="4096" alt="Day 29 - Null" src="https://user-images.githubusercontent.com/83227252/144733482-b1d413dc-9bc8-4a8e-87a8-2dfc36217716.png">
 
-## Day 30 - Metampping Day 
+## Day 30 - Metampping Day (Back to Beginning)
