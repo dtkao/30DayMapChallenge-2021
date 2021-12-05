@@ -2,7 +2,7 @@
 ## Maps Designed by: Dennis Kao, @professorkao
 
 ## Day 1 - Points 
-#### https://public.tableau.com/app/profile/dennis.kao/viz/CityLights-Ottawa/Dashboard1
+[Link](https://public.tableau.com/app/profile/dennis.kao/viz/CityLights-Ottawa/Dashboard1)
 ![Final Image](https://user-images.githubusercontent.com/83227252/144732804-55b8ff43-68ad-476d-a22d-fa2265e5fdf6.png)
 
 ## Day 2 - Lines
