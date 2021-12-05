@@ -4,21 +4,21 @@
 ## [Day 1 - Points](https://public.tableau.com/app/profile/dennis.kao/viz/CityLights-Ottawa/Dashboard1) | [Twitter](https://twitter.com/professorkao/status/1455106256373485569?s=20)
 ![Final Image](https://user-images.githubusercontent.com/83227252/144732804-55b8ff43-68ad-476d-a22d-fa2265e5fdf6.png)
 
-## [Day 2 - Lines](https://tabsoft.co/3bxjNCj) | [Twitter]()
+## [Day 2 - Lines](https://tabsoft.co/3bxjNCj) | [Twitter](https://twitter.com/professorkao/status/1455576916438695941?s=20)
 <img width="587" alt="Final Image" src="https://user-images.githubusercontent.com/83227252/144732812-40d65e06-8b12-438a-a5cb-d37213653807.png">
 
-## Day 3 - Polygons | [Twitter]()
+## Day 3 - Polygons | [Twitter](https://twitter.com/professorkao/status/1455982200701210624?s=20)
 ![Final image](https://user-images.githubusercontent.com/83227252/144732816-9765758b-fca7-44ba-bbce-905af1442733.png)
 
 ## Day 4 - Hexagon (see Day 19 - Islands)
 
-## Day 5 - OSM | [Twitter]()
+## Day 5 - OSM | [Twitter](https://twitter.com/professorkao/status/1456756869830164480?s=20)
 ![Day 5 - OSM](https://user-images.githubusercontent.com/83227252/144732868-164484ee-4b84-4829-bec4-098ff9d90a06.png)
 
-## [Day 6 - Red](https://tabsoft.co/3mQPTz9) | [Twitter]()
+## [Day 6 - Red](https://tabsoft.co/3mQPTz9) | [Twitter](https://twitter.com/professorkao/status/1457115558558720001?s=20)
 ![Dashboard 1-4](https://user-images.githubusercontent.com/83227252/144732916-9da87820-7e6f-4a35-854b-b061d0f1daa2.png)
 
-## Day 7 - Green | [Twitter]()
+## Day 7 - Green | [Twitter](https://twitter.com/professorkao/status/1458469853761835017?s=20)
 ## Day 8 - Blue
 ## Day 9 - Monochrome
 <img width="3023" alt="Day 6-9" src="https://user-images.githubusercontent.com/83227252/144732958-a7f35eae-f933-4d50-b1cc-d0d2b9355554.png">
@@ -29,34 +29,34 @@
 
 ## Day 12 - Population (See Day 14 - Map with a New Tool)
 
-## Day 13 - Natural Earth | [Twitter]()
+## Day 13 - Natural Earth | [Twitter](https://twitter.com/professorkao/status/1459951467545214986?s=20)
 ![Natural earth final map](https://user-images.githubusercontent.com/83227252/144733029-7477fedd-3a9e-4a2b-8526-1dd6dc4d669c.png)
 
-## Day 14 - Map with a New Tool (+ Day 11 - 3D & Day 12 - Population) | [Twitter]()
+## Day 14 - Map with a New Tool (+ Day 11 - 3D & Day 12 - Population) | [Twitter](https://twitter.com/professorkao/status/1460066903548993538?s=20)
 ![Final Map](https://user-images.githubusercontent.com/83227252/144733016-713d4513-e349-4d1c-b2f8-5a1761d15277.png)
 
-## Day 15 - Map Made Without Using a Computer | [Twitter]()
+## Day 15 - Map Made Without Using a Computer | [Twitter](https://twitter.com/professorkao/status/1460294301221535749?s=20)
 ![IMG_3914 1](https://user-images.githubusercontent.com/83227252/144733102-73302af7-044d-4259-ad58-9d91fb65978e.png)
 
-## [Day 16 - Urban/Rural](https://public.tableau.com/app/profile/dennis.kao/viz/UrbanRuralOttawa30DayMapChallengeDay16/Dashboard1) | [Twitter]()
+## [Day 16 - Urban/Rural](https://public.tableau.com/app/profile/dennis.kao/viz/UrbanRuralOttawa30DayMapChallengeDay16/Dashboard1) | [Twitter](https://twitter.com/professorkao/status/1460669433744089091?s=20)
 ![Dashboard 1-3](https://user-images.githubusercontent.com/83227252/144733125-d5f82c16-ae01-4403-aa44-27219bcb4cef.png)
 
-## Day 17 - Land | [Twitter]()
+## Day 17 - Land | [Twitter](https://twitter.com/professorkao/status/1461081274114793491?s=20)
 ![Day 17 - Land](https://user-images.githubusercontent.com/83227252/144733132-d4f58cbf-f359-421a-9028-c5c26c797507.png)
 
-## Day 18 - Water | [Twitter]()
+## Day 18 - Water | [Twitter](https://twitter.com/professorkao/status/1461451052730011656?s=20)
 ![Day 18 - Water](https://user-images.githubusercontent.com/83227252/144733253-ec986f6f-0993-4386-a1aa-0d7d538acd6e.png)
 
-## [Day 19 - Island](https://tabsoft.co/3qTP4bf) (Day 5 - Hexagon & Day 10 - Raster) | [Twitter]()
+## [Day 19 - Island](https://tabsoft.co/3qTP4bf) (Day 5 - Hexagon & Day 10 - Raster) | [Twitter](https://twitter.com/professorkao/status/1461819515914887173?s=20)
 ![Dashboard 1-5](https://user-images.githubusercontent.com/83227252/144733399-a2867609-484a-43db-8c84-2936068613cc.png)
 
-## [Day 20 - Movement](https://public.tableau.com/app/profile/dennis.kao/viz/2020ChampionsLeagueFinal30DayMapChallengeDay20Movement/Dashboard1) | [Twitter]()
+## [Day 20 - Movement](https://public.tableau.com/app/profile/dennis.kao/viz/2020ChampionsLeagueFinal30DayMapChallengeDay20Movement/Dashboard1) | [Twitter](https://twitter.com/professorkao/status/1462388455955210240?s=20)
 ![Dashboard 1-4](https://user-images.githubusercontent.com/83227252/144733262-19b09a42-4719-42d4-a884-6e864247e63a.png)
 
 ## Day 21 - Elevation | [Twitter](https://twitter.com/professorkao/status/1462388455955210240?s=20)
 <img width="7369" alt="Day 21 - Elevation" src="https://user-images.githubusercontent.com/83227252/144733265-783b6701-3c7a-4bd7-834a-43bf727d08d0.png">
 
-## Day 22 - Boundaries | [Twitter]()
+## Day 22 - Boundaries | [Twitter](https://twitter.com/professorkao/status/1466844371567972352?s=20)
 ![Day 22 - Boundaries](https://user-images.githubusercontent.com/83227252/144733302-ee216132-ac97-4165-8efa-4c0469d279bc.png)
 
 ## Day 23 - GHSL | [Twitter](https://twitter.com/professorkao/status/1463268683418066950?s=20)
