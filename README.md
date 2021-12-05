@@ -2,10 +2,10 @@
 ## Maps Designed by: Dennis Kao, @professorkao
 
 ## Day 1 - Points 
-### https://tabsoft.co/3bxjNCj
 ![Final Image](https://user-images.githubusercontent.com/83227252/144732804-55b8ff43-68ad-476d-a22d-fa2265e5fdf6.png)
 
 ## Day 2 - Lines
+### https://tabsoft.co/3bxjNCj
 <img width="587" alt="Final Image" src="https://user-images.githubusercontent.com/83227252/144732812-40d65e06-8b12-438a-a5cb-d37213653807.png">
 
 ## Day 3 - Polygons
